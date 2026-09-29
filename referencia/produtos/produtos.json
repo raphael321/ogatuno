@@ -1,0 +1,488 @@
+{
+  "origem": "https://www.ogatuno.store",
+  "coletadoEm": "2026-09-29",
+  "total": 23,
+  "produtos": [
+    {
+      "id": "fonte-agua-mstail",
+      "nome": "Fonte de Água Mstail",
+      "categorias": [
+        "Comedouros e Fontes"
+      ],
+      "preco": 199,
+      "precoOriginal": 239,
+      "opcoes": null,
+      "resumo": "3 litros em aço inox 304, filtragem tripla e bomba silenciosa. Água sempre fresca e em movimento.",
+      "descricao": "Dispensador automático de água para animais de estimação, 3 L, aço inoxidável, com filtro, janela visual de nível, portátil e silencioso.",
+      "detalhes": [
+        "Capacidade de 3 L e bomba silenciosa de alta potência que elimina pelos flutuantes e resíduos de ração, mantendo a água fresca por até 7 dias para um gato e um cachorro. Alimentação por adaptador USB.",
+        "Design separável: as peças que ficam na água saem direto para lavar, facilitando a limpeza profunda. Acompanha escova especial.",
+        "Filtragem tripla: carvão ativado de casca de coco, pedras minerais e elemento filtrante de tecido não tecido.",
+        "Aço inoxidável 304, que ajuda a evitar a acne felina no queixo.",
+        "Na caixa: fonte, 2 elementos filtrantes, 2 filtros de algodão da bomba, escova de limpeza, manual, bomba d’água e torneira."
+      ],
+      "imagens": [
+        "site/assets/produtos/fonte-agua-mstail-1.webp",
+        "site/assets/produtos/fonte-agua-mstail-2.webp",
+        "site/assets/produtos/fonte-agua-mstail-3.webp",
+        "site/assets/produtos/fonte-agua-mstail-4.webp",
+        "site/assets/produtos/fonte-agua-mstail-5.webp",
+        "site/assets/produtos/fonte-agua-mstail-6.webp",
+        "site/assets/produtos/fonte-agua-mstail-7.webp",
+        "site/assets/produtos/fonte-agua-mstail-8.webp"
+      ]
+    },
+    {
+      "id": "filtros-fonte-mstail",
+      "nome": "16 Filtros para Fonte Mstail",
+      "categorias": [
+        "Comedouros e Fontes"
+      ],
+      "preco": 82,
+      "precoOriginal": 119,
+      "opcoes": null,
+      "resumo": "Kit de reposição com 8 filtros de carvão e 8 esponjas de algodão. Água limpinha por muito mais tempo.",
+      "descricao": "Conjunto de 16 peças de filtros para bebedouro de gato: 8 filtros de carvão e 8 esponjas de algodão de reposição, compatíveis com a Fonte Mstail (TY08).",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/filtros-fonte-mstail-1.webp",
+        "site/assets/produtos/filtros-fonte-mstail-2.webp",
+        "site/assets/produtos/filtros-fonte-mstail-3.webp",
+        "site/assets/produtos/filtros-fonte-mstail-4.webp",
+        "site/assets/produtos/filtros-fonte-mstail-5.webp"
+      ]
+    },
+    {
+      "id": "fonte-agua-clapam",
+      "nome": "Fonte de Água Clapam",
+      "categorias": [
+        "Comedouros e Fontes"
+      ],
+      "preco": 109,
+      "precoOriginal": null,
+      "opcoes": null,
+      "resumo": "Bebedouro automático silencioso, com filtro e alimentação USB.",
+      "descricao": "Fonte bebedouro automático para gatos e cachorros. Dispenser de água USB silencioso com filtro e bomba elétrica.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/fonte-agua-clapam-1.webp",
+        "site/assets/produtos/fonte-agua-clapam-2.webp"
+      ]
+    },
+    {
+      "id": "tigela-inclinada",
+      "nome": "Tigela Inclinada para Ração",
+      "categorias": [
+        "Comedouros e Fontes"
+      ],
+      "preco": 49,
+      "precoOriginal": null,
+      "opcoes": {
+        "Cor": [
+          "Verde",
+          "Azul",
+          "Rosa"
+        ]
+      },
+      "resumo": "Base alta e inclinada que protege o pescoço e evita derramar ração.",
+      "descricao": "Tigela inclinada com base alta protetora de pescoço, antiasfixia e antiderramamento. Serve para ração ou água, para gatos e cães.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/tigela-inclinada-1.webp",
+        "site/assets/produtos/tigela-inclinada-2.webp",
+        "site/assets/produtos/tigela-inclinada-3.webp"
+      ]
+    },
+    {
+      "id": "comedouro-duplo-inox",
+      "nome": "Comedouro e Bebedouro Duplo Inox",
+      "categorias": [
+        "Comedouros e Fontes",
+        "Para os Cães"
+      ],
+      "preco": 59,
+      "precoOriginal": null,
+      "opcoes": null,
+      "resumo": "Duas tigelas de aço inox em base antiderrapante: comida e água lado a lado.",
+      "descricao": "Comedouro e bebedouro duplo de aço inoxidável com base antiderrapante. Ideal para cães e gatos.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/comedouro-duplo-inox-1.webp",
+        "site/assets/produtos/comedouro-duplo-inox-2.webp"
+      ]
+    },
+    {
+      "id": "caixa-areia-makesure",
+      "nome": "Caixa de Areia Grande MakeSure",
+      "categorias": [
+        "Higiene e Bem-Estar"
+      ],
+      "preco": 239,
+      "precoOriginal": 289,
+      "opcoes": {
+        "Cor": [
+          "Verde escuro",
+          "Branco",
+          "Azul"
+        ]
+      },
+      "resumo": "Sanitário grande e aberto, com pá e bandeja antissalpicos.",
+      "descricao": "Caixa de areia para gatos grande MakeSure: sanitário aberto com pá de limpeza e bandeja de areia antissalpicos, para gatos e filhotes.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/caixa-areia-makesure-1.webp"
+      ]
+    },
+    {
+      "id": "caixa-areia-semi-fechada",
+      "nome": "Caixa de Areia Semi-Fechada",
+      "categorias": [
+        "Higiene e Bem-Estar"
+      ],
+      "preco": 79,
+      "precoOriginal": null,
+      "opcoes": {
+        "Cor": [
+          "Marrom",
+          "Rosa",
+          "Azul"
+        ],
+        "Tamanho": [
+          "P",
+          "G"
+        ]
+      },
+      "resumo": "Bandeja oval antirrespingo e destacável, acompanha pá.",
+      "descricao": "Caixa de areia semi-fechada para gatos, com bandeja oval antirrespingo destacável e pá de limpeza.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/caixa-areia-semi-fechada-1.webp",
+        "site/assets/produtos/caixa-areia-semi-fechada-2.webp"
+      ]
+    },
+    {
+      "id": "tapete-coletor-areia",
+      "nome": "Tapete Higiênico Coletor de Areia",
+      "categorias": [
+        "Higiene e Bem-Estar"
+      ],
+      "preco": 49,
+      "precoOriginal": null,
+      "opcoes": null,
+      "resumo": "Dupla camada que segura a areia das patinhas. Lavável e antiderrapante.",
+      "descricao": "Tapete higiênico coletor de areia para gatos, dupla camada, lavável e antiderrapante.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/tapete-coletor-areia-1.webp",
+        "site/assets/produtos/tapete-coletor-areia-2.webp",
+        "site/assets/produtos/tapete-coletor-areia-3.webp"
+      ]
+    },
+    {
+      "id": "pa-areia-inox",
+      "nome": "Pá de Areia Fina Inox",
+      "categorias": [
+        "Higiene e Bem-Estar"
+      ],
+      "preco": 49,
+      "precoOriginal": null,
+      "opcoes": null,
+      "resumo": "Pá de aço inoxidável de longa durabilidade, ideal para areia fina.",
+      "descricao": "Pá para areia sanitária de gatos em aço inoxidável de longa durabilidade.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/pa-areia-inox-1.webp"
+      ]
+    },
+    {
+      "id": "escova-a-vapor",
+      "nome": "Escova a Vapor 3 em 1",
+      "categorias": [
+        "Higiene e Bem-Estar"
+      ],
+      "preco": 49,
+      "precoOriginal": 65,
+      "opcoes": null,
+      "resumo": "Vapor + massagem que solta os pelos mortos sem estresse.",
+      "descricao": "Escova a vapor 3 em 1 para gatos e cachorros: pente de massagem com vapor para remoção de pelos.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/escova-a-vapor-1.webp",
+        "site/assets/produtos/escova-a-vapor-2.webp",
+        "site/assets/produtos/escova-a-vapor-3.webp"
+      ]
+    },
+    {
+      "id": "pente-silicone-vapor",
+      "nome": "Pente de Silicone a Vapor",
+      "categorias": [
+        "Higiene e Bem-Estar"
+      ],
+      "preco": 40,
+      "precoOriginal": 55,
+      "opcoes": {
+        "Cor": [
+          "Azul",
+          "Rosa"
+        ]
+      },
+      "resumo": "Silicone macio com reservatório de água, perfeito para pelos longos.",
+      "descricao": "Pente de silicone para tosa, removedor de pelos longos para cães e gatos, com reservatório de água e toalhete para limpeza fácil.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/pente-silicone-vapor-1.webp",
+        "site/assets/produtos/pente-silicone-vapor-2.webp"
+      ]
+    },
+    {
+      "id": "escova-removedora-pelos",
+      "nome": "Escova Removedora de Pelos",
+      "categorias": [
+        "Higiene e Bem-Estar"
+      ],
+      "preco": 45,
+      "precoOriginal": null,
+      "opcoes": null,
+      "resumo": "Massageia enquanto remove os pelos, com limpeza rápida.",
+      "descricao": "Escova removedora de pelos para cães e gatos: massageadora com limpeza rápida.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/escova-removedora-pelos-1.webp",
+        "site/assets/produtos/escova-removedora-pelos-2.webp"
+      ]
+    },
+    {
+      "id": "cortador-unhas-led",
+      "nome": "Cortador de Unhas com LED",
+      "categorias": [
+        "Higiene e Bem-Estar"
+      ],
+      "preco": 40,
+      "precoOriginal": null,
+      "opcoes": null,
+      "resumo": "Cortador, alicate e lima com luz LED: 3 em 1 para cortar com segurança.",
+      "descricao": "Cortador de unhas, alicate e lima para cães e gatos com luz LED 3 em 1.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/cortador-unhas-led-1.webp",
+        "site/assets/produtos/cortador-unhas-led-2.webp",
+        "site/assets/produtos/cortador-unhas-led-3.webp"
+      ]
+    },
+    {
+      "id": "bola-interativa",
+      "nome": "Bola Interativa",
+      "categorias": [
+        "Brinquedos"
+      ],
+      "preco": 49,
+      "precoOriginal": null,
+      "opcoes": {
+        "Cor": [
+          "Verde",
+          "Vermelho",
+          "Cinza"
+        ]
+      },
+      "resumo": "Bola automática com sensor de movimento e cauda falsa.",
+      "descricao": "Brinquedo automático para gatos: bola interativa com sensor de movimento e cauda falsa. Design seguro que não machuca.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/bola-interativa-1.webp"
+      ]
+    },
+    {
+      "id": "abacate-catnip",
+      "nome": "Abacate Catnip",
+      "categorias": [
+        "Brinquedos"
+      ],
+      "preco": 43,
+      "precoOriginal": null,
+      "opcoes": null,
+      "resumo": "Abacate de pelúcia recheado de catnip natural. Pura euforia felina.",
+      "descricao": "Abacate de brinquedo para gatos com catnip (erva-do-gato) natural.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/abacate-catnip-1.webp"
+      ]
+    },
+    {
+      "id": "cama-aconchegante-plush",
+      "nome": "Cama Aconchegante Plush",
+      "categorias": [
+        "Conforto e Passeio"
+      ],
+      "preco": 109,
+      "precoOriginal": 129,
+      "opcoes": {
+        "Cor": [
+          "Vermelho",
+          "Marrom"
+        ]
+      },
+      "resumo": "Pelúcia quentinha e reforçada para o sono de quem manda na casa.",
+      "descricao": "Cama aconchegante de pelúcia, reforçada, quente e segura para gatos e cães de pequeno e médio porte. Para todas as estações.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/cama-aconchegante-plush-1.webp",
+        "site/assets/produtos/cama-aconchegante-plush-2.webp",
+        "site/assets/produtos/cama-aconchegante-plush-3.webp"
+      ]
+    },
+    {
+      "id": "bolsa-transporte-pet",
+      "nome": "Bolsa Transporte Pet",
+      "categorias": [
+        "Conforto e Passeio",
+        "Para os Cães"
+      ],
+      "preco": 189,
+      "precoOriginal": null,
+      "opcoes": null,
+      "resumo": "Visão panorâmica, ventilação e bolsos para passeios e viagens.",
+      "descricao": "Bolsa de transporte pet com visão panorâmica, ventilação e bolsos, para passeios e viagens.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/bolsa-transporte-pet-1.webp",
+        "site/assets/produtos/bolsa-transporte-pet-2.webp"
+      ]
+    },
+    {
+      "id": "caixa-transporte-portatil",
+      "nome": "Caixa de Transporte Portátil",
+      "categorias": [
+        "Conforto e Passeio",
+        "Para os Cães"
+      ],
+      "preco": 175,
+      "precoOriginal": 189,
+      "opcoes": null,
+      "resumo": "Respirável e aprovada para companhias aéreas.",
+      "descricao": "Caixa de transporte portátil para cães e gatos, aprovada para companhias aéreas e respirável, para viagens.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/caixa-transporte-portatil-1.webp",
+        "site/assets/produtos/caixa-transporte-portatil-2.webp",
+        "site/assets/produtos/caixa-transporte-portatil-3.webp",
+        "site/assets/produtos/caixa-transporte-portatil-4.webp"
+      ]
+    },
+    {
+      "id": "garrafa-agua-caes",
+      "nome": "Garrafa de Água para Passeio",
+      "categorias": [
+        "Para os Cães"
+      ],
+      "preco": 79,
+      "precoOriginal": null,
+      "opcoes": {
+        "Cor": [
+          "Cinza",
+          "Azul",
+          "Rosa"
+        ]
+      },
+      "resumo": "À prova de vazamentos, com tigela de comida embutida.",
+      "descricao": "Garrafa de água portátil à prova de vazamentos, com tigela de comida embutida. Para cães, filhotes e gatos em caminhadas ao ar livre.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/garrafa-agua-caes-1.webp",
+        "site/assets/produtos/garrafa-agua-caes-2.webp",
+        "site/assets/produtos/garrafa-agua-caes-3.webp"
+      ]
+    },
+    {
+      "id": "colete-peitoral-ajustavel",
+      "nome": "Colete Peitoral Ajustável",
+      "categorias": [
+        "Para os Cães"
+      ],
+      "preco": 99,
+      "precoOriginal": null,
+      "opcoes": {
+        "Cor": [
+          "Areia",
+          "Preto"
+        ]
+      },
+      "resumo": "Para cães de médio porte, com alça e tiras refletivas.",
+      "descricao": "Colete peitoral ajustável para cães de médio porte, com alça e tiras refletivas.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/colete-peitoral-ajustavel-1.webp",
+        "site/assets/produtos/colete-peitoral-ajustavel-2.webp",
+        "site/assets/produtos/colete-peitoral-ajustavel-3.webp",
+        "site/assets/produtos/colete-peitoral-ajustavel-4.webp"
+      ]
+    },
+    {
+      "id": "coleira-guia-retratil",
+      "nome": "Coleira Guia Retrátil 5 m",
+      "categorias": [
+        "Para os Cães"
+      ],
+      "preco": 54,
+      "precoOriginal": null,
+      "opcoes": {
+        "Cor": [
+          "Azul",
+          "Cinza",
+          "Verde",
+          "Rosa",
+          "Vermelho"
+        ]
+      },
+      "resumo": "5 metros, com trava e resistente, para pets de até 11,33 kg.",
+      "descricao": "Coleira guia retrátil de 5 metros para cães e gatos, resistente, com trava. Suporta até 11,33 kg.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/coleira-guia-retratil-1.webp",
+        "site/assets/produtos/coleira-guia-retratil-2.webp",
+        "site/assets/produtos/coleira-guia-retratil-3.webp"
+      ]
+    },
+    {
+      "id": "cama-elevada-refrescante",
+      "nome": "Cama Elevada Refrescante",
+      "categorias": [
+        "Para os Cães"
+      ],
+      "preco": 119,
+      "precoOriginal": 139,
+      "opcoes": null,
+      "resumo": "Malha respirável e elevada do chão para os dias quentes.",
+      "descricao": "Cama elevada refrescante para cães e gatos, com barreira de proteção e malha respirável. Portátil, serve para uso externo e camping.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/cama-elevada-refrescante-1.webp",
+        "site/assets/produtos/cama-elevada-refrescante-2.webp",
+        "site/assets/produtos/cama-elevada-refrescante-3.webp"
+      ]
+    },
+    {
+      "id": "doacao-gateiros-de-santa",
+      "nome": "Doação para os Gateiros de Santa",
+      "categorias": [
+        "Parceria"
+      ],
+      "preco": 5,
+      "precoOriginal": null,
+      "opcoes": {
+        "Valor": [
+          "5",
+          "10",
+          "20",
+          "50",
+          "100"
+        ]
+      },
+      "resumo": "O valor vai integralmente para o coletivo.",
+      "descricao": "Selecione o valor e faça uma doação para ajudar os Gateiros de Santa a salvar cada vez mais gatinhos! O valor vai integralmente para eles.",
+      "detalhes": null,
+      "imagens": [
+        "site/assets/produtos/doacao-gateiros-de-santa-1.webp"
+      ]
+    }
+  ]
+}

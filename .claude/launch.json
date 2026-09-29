@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ogatuno-site",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [".claude/dev-server.py", "5500"],
+      "port": 5500
+    }
+  ]
+}
